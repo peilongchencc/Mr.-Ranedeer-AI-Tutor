@@ -1,10 +1,10 @@
-# AI-Tutor
+# My-AI-Tutor
 
 参考[Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)，制定个人学习计划，为不同需求和兴趣的用户提供个性化学习体验。
 
 
 ## 目录
-- [AI-Tutor](#ai-tutor)
+- [My-AI-Tutor](#my-ai-tutor)
   - [目录](#目录)
   - [功能特点:](#功能特点)
   - [配置指南:](#配置指南)
